@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning Quantum Hardware
 - 💞️ I’m looking to collaborate on Quantum Information Science
-- 📫 Email at kushagra@silicons.studio
+- 📫 Email at kushagra.rigel@gmail.com
 
 <!---
 skushagra/skushagra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
